@@ -15,6 +15,5 @@ setup(
       packages=[
             'my_custom_sklearn_transforms'
       ],
-      install_requires=['scikit-learn==0.23.2'],
       zip_safe=False
 )
